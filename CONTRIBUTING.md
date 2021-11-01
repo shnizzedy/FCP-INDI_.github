@@ -2,6 +2,10 @@
 
 [C-PAC Contributor Guide](https://docs.google.com/document/d/1IqXM_iaQRxYkByyeXIub-suMZdLrg-103_jKShnK0X0/edit?usp=sharing)
 
+## Changelog
+
+The CHANGELOG file is intended to be a human-readlable summary of changes to the codebase. The Git commit log is a fuller picture and need not be replicated in the changelog. Generally, you should add or update approximately one line in the "Unreleased" section per pull request, but depending on the scope of a pull request, you may need to add or update more than one line, or nothing at all.  
+
 # C-PAC Coding Standard
 
 ## General Principles
